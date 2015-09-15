@@ -1,4 +1,4 @@
-## Guide 01: Quy trình hoạt động
+## About: KS.IS Group 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ks-is/docs/master/git-logo.png?raw=true"/>
@@ -17,6 +17,7 @@ Ngày thành lập chính thức: `12/12/2013` (Ban đầu có tên là **SFT**)
 
 #### Timeline
 
+<p align="center">
 | Date  | Events  | Note |
 | :---------: |:---------------------| :----:|
 | 12/12/2013  | Thành lập nhóm **SFT**   | |
@@ -32,6 +33,7 @@ Ngày thành lập chính thức: `12/12/2013` (Ban đầu có tên là **SFT**)
 | 14/06/2015  | SFT CTF 2015 (2nd)   | Host         |
 | 12/09/2015  | Phát triển & mở rộng thành **KS.IS Group** | Host |
 | [...]  | [...]   | [...]  |
+</p>
 
 #### Danh sách thành viên (2015)
 
