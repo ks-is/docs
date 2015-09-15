@@ -1,6 +1,8 @@
 ## Guide 01: Quy trình hoạt động
 
-![Git-logo](git-logo.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ks-is/docs/master/git-logo.png?raw=true"/>
+</p>
 
 **KMA Security Information Security** (viết tắt là **KS.IS**) là group về CNTT, An toàn thông tin của Sinh viên Học viện kỹ thuật Mật mã - Cơ sở phía Nam.
 
