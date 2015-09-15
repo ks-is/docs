@@ -33,7 +33,7 @@ Ngày thành lập chính thức: `12/12/2013` (Ban đầu có tên là **SFT**)
 | 12/09/2015  | Phát triển & mở rộng thành **KS.IS Group** | Host |
 | [...]  | [...]   | [...]  |
 
-#### Quy trình hoạt động (2015)
+#### Danh sách thành viên (2015)
 
 [chưa cập nhật]
 
