@@ -35,6 +35,37 @@ Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là SFT).
 | 12/09/2015  | Phát triển & mở rộng thành KS.IS Group |  |
 | [...]  | [...]   | [...]  |
 
+<table>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 </center>
 
 #### Danh sách thành viên (2015)
