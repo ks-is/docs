@@ -6,14 +6,14 @@
 
 **KMA Security Information Security** (viết tắt là **KS.IS**) là group về CNTT, An toàn thông tin của Sinh viên Học viện kỹ thuật Mật mã - Cơ sở phía Nam.
 
-Ngày thành lập chính thức: `12/12/2013` (Ban đầu có tên là **SFT**).
+Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là `SFT`).
 
 #### Co-Founder
 
 * Hardworking (toan-ksis)
 * SilverShooter (LeAn)
-* MatSac (binhpham)
-* Tam Quang vu
+* BinhPham (matsac)
+* TamQuangVu (TamVu)
 
 #### Timeline
 
