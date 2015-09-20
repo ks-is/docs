@@ -10,13 +10,14 @@
 
 | No. |          Team         | Thành viên | Ghi chú |
 |:---:|:---------------------:|:----------:|:-------:|
-| 1   | Điều hành (Executive) | 5          |         |
-| 2   | Nghiên cứu (R&D)      | 4          |         |
-| 3   | CTFers                | *          |         |
-| 4   | Network (+ CCNA)      | *          |         |
-| 5   | Developers            | *          |         |
-| -   | Thành viên (Members)  | *          |         |
+| 1   | [Điều hành (Executive)](#1-team-dieu-hanh) | 5          |         |
+| 2   | [Nghiên cứu (R&D)](#2-team-r-d)      | 4          |         |
+| 3   | [CTFers](#3-team-ctfers)               | *          |         |
+| 4   | [Network (+ CCNA)](#4-team-network)      | *          |         |
+| 5   | [Developers](#5-team-developers)          | *          |         |
+| -   | [Thành viên (Members)](#team-members)  | *          |         |
 
+<a name="1-team-dieu-hanh"></a>
 **1. Team Điều hành**
 
 * Phụ trách chung (1):
@@ -36,6 +37,7 @@
 	* Quản lý repo `forum`
 	* Đăng các issue hay đang được thảo luận trong ngày lên Facebook
 
+<a name="2-team-r-d"></a>
 **2. Team R&D**
 
 * Nghiên cứu các công nghệ mới, kỹ thuật mới, .. thông qua demo, review, ..
@@ -44,6 +46,7 @@
 	* Công nghệ mạng (Network)
 	* Kỹ thuật tấn công (Exploit)
 
+<a name="3-team-ctfers"></a>
 **3. Team CTFers**
 
 * Cập nhật các Cuộc thi CTF lên Facebook
@@ -51,17 +54,20 @@
 * Tham gia hoạt động CTF Training
 * Chuẩn bị các bài nói về CTF cho meet-up
 
+<a name="4-team-network"></a>
 **4. Team Network**
 
 * Bao gồm thành viên của nhóm #CCNA
 * Tham gia hoạt động Network Training (bao gồm CCNA)
 * Chuẩn bị các bài nói về Network cho meet-up
 
+<a name="5-team-developers"></a>
 **5. Team Developers**
 
 * Phát triển các dự án phần mềm chung của nhóm
 * Chuẩn bị các bài nói về phần mềm cho meet-up
 
+<a name="team-members"></a>
 **6. Team Members**
 
 * Các thành viên tham gia các nhóm từ 1-5 thuộc nhóm này
@@ -69,6 +75,7 @@
 
 **Lưu ý: Với mỗi vị trí, xem hướng dẫn chi tiết trong từng repo**
 
+<a name="hoat-dong-dinh-ky"></a>
 #### Hoạt động định kỳ
 
 [đang cập nhật ..]
