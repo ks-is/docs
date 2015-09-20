@@ -3,9 +3,6 @@
 [![](icon/docs.png)](https://github.com/ks-is/docs/)
 [![](icon/chat.png)](https://gitter.im/ksis-group/chat)
 [![](icon/forum.png)](https://github.com/ks-is/forum/issues/)
-[![](icon/logs.png)](https://github.com/ks-is/logs/)
-[![](icon/lib.png)](https://github.com/ks-is/lib/)
-[![](icon/meetup.png)](https://github.com/ks-is/meetup/issues/)
 
 > Description: Hướng dẫn về hoạt động nhóm cho thành viên mới
 >
