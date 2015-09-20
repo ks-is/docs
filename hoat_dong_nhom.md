@@ -6,8 +6,6 @@
 >
 > Last update: 19/09/2015
 
-----
-
 ### Tổ chức nhân sự
 
 | No. |          Team         | Thành viên | Ghi chú |
@@ -82,12 +80,12 @@
 <a name="hoat-dong-dinh-ky"></a>
 ### Hoạt động định kỳ
 
-* Meet-up đầu năm học (Tháng 9 đến Tháng 10): Giao lưu với Sinh viên khóa mới.
-* Tổ chức các buổi meet-up về Công nghệ hàng tháng (Thứ 7 hoặc Chủ nhật tuần đầu tiên của Tháng - Team Điều hành phụ trách).
-* Tổ chức các cuộc thi: CTF contest (3 tháng một lần - Team CTFers phụ trách).
-* Tham gia cùng nhau trong các cuộc thi CTF Online.
-* CCNA Training (Thứ 7 hàng tuần - Team Network phụ trách).
-* CTF Training (chưa có kế hoạch cụ thể).
+* Meet-up đầu năm học (Tháng 9 đến Tháng 10): `Giao lưu với Sinh viên khóa mới`.
+* Tổ chức các buổi meet-up về `Công nghệ` hàng tháng (Thứ 7 hoặc Chủ nhật tuần đầu tiên của Tháng - Team Điều hành phụ trách).
+* Tổ chức các cuộc thi: `CTF contest` (3 tháng một lần - Team CTFers phụ trách).
+* Tham gia cùng nhau trong các cuộc thi `CTF Online`.
+* `CCNA Training` (Thứ 7 hàng tuần - Team Network phụ trách).
+* `CTF Training` (chưa có kế hoạch cụ thể).
 
 **Lưu ý: Mỗi tháng chỉ tổ chức tối đa 1 buổi meet-up (không tính CCNA Training)**
 
