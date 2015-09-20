@@ -1,5 +1,9 @@
 ## Hoạt động nhóm
 
+[![Foo](icon/docs.png)](https://github.com/ks-is/docs/)
+[![Foo](icon/chat.png)](https://gitter.im/ksis-group/chat)
+[![Foo](icon/docs.png)](https://github.com/ks-is/docs/)
+
 > Description: Hướng dẫn về hoạt động nhóm cho thành viên mới
 >
 > Author: toan-ksis
