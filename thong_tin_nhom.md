@@ -37,3 +37,6 @@ Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là SFT).
 
 [chưa cập nhật]
 
+```C
+/* EOF - thong_tin_nhom.md */
+```
