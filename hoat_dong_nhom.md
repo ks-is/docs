@@ -87,4 +87,6 @@
 
 **Lưu ý: Mỗi tháng chỉ tổ chức tối đa 1 buổi meet-up (không tính CCNA Training)**
 
+```C
 /* EOF - hoat_dong_nhom.md */
+```
