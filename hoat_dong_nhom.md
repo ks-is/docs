@@ -6,7 +6,7 @@
 > 
 > Last update: 19/09/2015
 
-#### Tổ chức nhân sự
+### Tổ chức nhân sự
 
 | No. |          Team         | Thành viên | Ghi chú |
 |:---:|:---------------------:|:----------:|:-------:|
@@ -76,6 +76,6 @@
 **Lưu ý: Với mỗi vị trí, xem hướng dẫn chi tiết trong từng repo**
 
 <a name="hoat-dong-dinh-ky"></a>
-#### Hoạt động định kỳ
+### Hoạt động định kỳ
 
 [đang cập nhật ..]
