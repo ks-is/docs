@@ -65,7 +65,7 @@
 **6. Team Members**
 
 * Các thành viên tham gia các nhóm từ 1-5 thuộc nhóm này
-* Các thành viên đã đăng kỹ tham gia nhóm
+* Các thành viên khác đã đăng ký tham gia nhóm
 
 **Lưu ý: Với mỗi vị trí, xem hướng dẫn chi tiết trong từng repo**
 
