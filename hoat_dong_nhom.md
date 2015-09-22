@@ -1,8 +1,8 @@
 ## Hoạt động nhóm 
 
-[![](icon/docs.png)](https://github.com/ks-is/docs/)
-[![](icon/chat.png)](https://gitter.im/ksis-group/chat)
-[![](icon/forum.png)](https://github.com/ks-is/forum/issues/)
+[![docs](icon/docs.png)](https://github.com/ks-is/docs/)
+[![chat](icon/chat.png)](https://gitter.im/ksis-group/chat)
+[![forum](icon/forum.png)](https://github.com/ks-is/forum/issues/)
 
 > Description: Hướng dẫn về hoạt động nhóm cho thành viên mới
 >
