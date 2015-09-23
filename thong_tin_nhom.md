@@ -35,7 +35,7 @@ Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là SFT).
 
 #### Danh sách thành viên (2015)
 
-[chưa cập nhật]
+[đang cập nhật]
 
 ```C
 /* EOF - thong_tin_nhom.md */
