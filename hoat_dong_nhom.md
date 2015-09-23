@@ -11,6 +11,32 @@
 >
 > Last update: 19/09/2015
 
+## Nội dung
+
+* **[Cách thức hoạt động](#cach-thuc-hoat-dong)**
+* **[Tổ chức nhân sự](#to-chuc-nhan-su)**
+* **[Quy trình tổ chức Meet-up](#meet-up)**
+* **[Hướng dẫn sử dụng forum](#forum)**
+* **[Quy trình tổ chức CTF contest](#ctf-contest)**
+* **[Quy trình tham gia CTF online](#ctf-online)**
+* **[Quy trình tổ chức CCNA Training](#ccna-training)**
+
+----
+
+<a name="cach-thuc-hoat-dong"></a>
+### Cách thức hoạt động
+
+* Meet-up đầu năm học (Tháng 9 đến Tháng 10): `Giao lưu với Sinh viên khóa mới`.
+* Tổ chức các buổi meet-up về `Công nghệ` hàng tháng (Thứ 7 hoặc Chủ nhật tuần đầu tiên của Tháng - Team Điều hành phụ trách).
+* Tổ chức các cuộc thi: `CTF contest` (3 tháng một lần - Team CTFers phụ trách).
+* Tham gia cùng nhau trong các cuộc thi `CTF Online`.
+* `CCNA Training` (Thứ 7 hàng tuần - Team Network phụ trách).
+* `CTF Training` (chưa có kế hoạch cụ thể).
+
+**Lưu ý: Mỗi tháng chỉ tổ chức tối đa 1 buổi meet-up (không tính CCNA Training)**
+
+
+<a name="to-chuc-nhan-su"></a>
 ### Tổ chức nhân sự
 
 | No. |          Team         | Thành viên | Ghi chú |
@@ -80,19 +106,38 @@
 
 **Lưu ý: Với mỗi vị trí, xem hướng dẫn chi tiết trong từng repo**
 
+
+<a name="meet-up"></a>
+### Quy trình tổ chức Meet-up
+
+* [đang cập nhật]
+
+
+<a name="forum"></a>
+### Hướng dẫn sử dụng forum
+
+* [đang cập nhật]
+
+
+<a name="ctf-contest"></a>
+### Quy trình tổ chức CTF contest
+
+* [đang cập nhật]
+
+
+<a name="ctf-online"></a>
+### Quy trình tham gia CTF online
+
+* [đang cập nhật]
+
+
+<a name="ccna-training"></a>
+### Quy trình tổ chức CCNA Training
+
+* [đang cập nhật]
+
+
 ----
-
-<a name="hoat-dong-dinh-ky"></a>
-### Hoạt động định kỳ
-
-* Meet-up đầu năm học (Tháng 9 đến Tháng 10): `Giao lưu với Sinh viên khóa mới`.
-* Tổ chức các buổi meet-up về `Công nghệ` hàng tháng (Thứ 7 hoặc Chủ nhật tuần đầu tiên của Tháng - Team Điều hành phụ trách).
-* Tổ chức các cuộc thi: `CTF contest` (3 tháng một lần - Team CTFers phụ trách).
-* Tham gia cùng nhau trong các cuộc thi `CTF Online`.
-* `CCNA Training` (Thứ 7 hàng tuần - Team Network phụ trách).
-* `CTF Training` (chưa có kế hoạch cụ thể).
-
-**Lưu ý: Mỗi tháng chỉ tổ chức tối đa 1 buổi meet-up (không tính CCNA Training)**
 
 ```C
 /* EOF - hoat_dong_nhom.md */
