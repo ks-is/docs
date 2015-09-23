@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/ks-is/docs/master/git-logo.png?raw=true"/>
 </p>
 
-**KMA Security Information Security** (viết tắt là **KS.IS**) là group về CNTT, An toàn thông tin của Sinh viên Học viện kỹ thuật Mật mã - Cơ sở phía Nam.
+**KMA South Information Security** (viết tắt là **KS.IS**) là group về CNTT, An toàn thông tin của Sinh viên Học viện kỹ thuật Mật mã - Cơ sở phía Nam.
 
 Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là SFT).
 
