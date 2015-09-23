@@ -26,7 +26,7 @@ Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là SFT).
 | 22/11/2014  | Phát triển và mở rộng thành SFT2 |  |
 | 29/11/2014  | CCNA Training Course | Start |
 | 21/12/2014  | SFT Training Course  | Start |
-| 29/03/2014  | SFT Training Course  | End   |
+| 29/03/2015  | SFT Training Course  | End   |
 | 04/04/2015  | SFT CTF 2015 (1st)   | Host  |
 | 16/05/2015  | CCNA Training Course | End   |
 | 14/06/2015  | SFT CTF 2015 (2nd)   | Host         |
