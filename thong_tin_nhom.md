@@ -23,7 +23,7 @@ Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là SFT).
 | 15/12/2013  | KMA CTF 2013         | 4th prize |
 | 20/09/2014  | KMA CTF 2014         | 3rd prize |
 | 08/11/2014  | Sơ khảo SVATTT 2014  | 3rd prize |
-| 22/11/2014  | Phát triển và mở rộng thành SFT2 |  |
+| 22/11/2014  | Phát triển & mở rộng thành SFT2 |  |
 | 29/11/2014  | CCNA Training Course | Start |
 | 21/12/2014  | SFT Training Course  | Start |
 | 29/03/2015  | SFT Training Course  | End   |
