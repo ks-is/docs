@@ -2,6 +2,7 @@
 
 [![docs](icon/docs.png)](https://github.com/ks-is/docs)
 [![chat](icon/chat.png)](https://ksis.slack.com/messages/chat)
+[![fb](icon/fb.png)](https://www.facebook.com/groups/kmasouth.is)
 [![forum](icon/forum.png)](https://github.com/ks-is/forum/issues)
 [![meetup](icon/meet.png)](https://github.com/ks-is/meetup/issues)
 
