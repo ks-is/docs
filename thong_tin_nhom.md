@@ -20,9 +20,9 @@ Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là SFT).
 | Date  | Events  | Note |
 | :---------: |:---------------------| :----:|
 | 12/12/2013  | Thành lập nhóm SFT   | |
-| 15/12/2013  | KMA CTF 2013         | |
-| 20/09/2014  | KMA CTF 2014         | |
-| 08/11/2014  | Sơ khảo SVATTT 2014  | |
+| 15/12/2013  | KMA CTF 2013         | 4th prize |
+| 20/09/2014  | KMA CTF 2014         | 3rd prize |
+| 08/11/2014  | Sơ khảo SVATTT 2014  | 3rd prize |
 | 22/11/2014  | Phát triển và mở rộng thành SFT2 |  |
 | 29/11/2014  | CCNA Training Course | Start |
 | 21/12/2014  | SFT Training Course  | Start |
@@ -31,6 +31,7 @@ Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là SFT).
 | 16/05/2015  | CCNA Training Course | End   |
 | 14/06/2015  | SFT CTF 2015 (2nd)   | Host         |
 | 12/09/2015  | Phát triển & mở rộng thành KS.IS Group |  |
+| 03/10/2015  | KMA CTF 2015         | Champion |
 | [...]  | [...]   | [...]  |
 
 #### Danh sách thành viên (2015)
