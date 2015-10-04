@@ -38,6 +38,11 @@ Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là SFT).
 
 [đang cập nhật]
 
+#### Giấy phép hoạt động
+
+* KS.IS Group là một tổ chức mở, không trực thuộc đơn vị hay cơ quan nào.
+* Mọi mã nguồn tuân theo License: GPLv3
+
 ```C
 /* EOF - thong_tin_nhom.md */
 ```
