@@ -31,7 +31,7 @@ Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là SFT).
 | 16/05/2015  | CCNA Training Course | End   |
 | 14/06/2015  | SFT CTF 2015 (2nd)   | Host         |
 | 12/09/2015  | Phát triển & mở rộng thành KS.IS Group |  |
-| 03/10/2015  | KMA CTF 2015 (3 team: InvisibleHat, AT10E, FKT)| Champion |
+| 03/10/2015  | KMA CTF 2015 (3 teams: InvisibleHat, AT10E, FKT)| Champion |
 | [...]  | [...]   | [...]  |
 
 #### Danh sách thành viên (2015)
