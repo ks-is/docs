@@ -9,14 +9,13 @@
 >
 > Author: toan-ksis
 >
-> Last update: 19/09/2015
+> Last update: 14/11/2015
 
 ## Nội dung
 
 * **[Cách thức hoạt động](#cach-thuc-hoat-dong)**
 * **[Tổ chức nhân sự](#to-chuc-nhan-su)**
 * **[Quy trình tổ chức Meet-up](#meet-up)**
-* **[Hướng dẫn sử dụng forum](#forum)**
 * **[Quy trình tổ chức CTF contest](#ctf-contest)**
 * **[Quy trình tham gia CTF online](#ctf-online)**
 * **[Quy trình tổ chức CCNA Training](#ccna-training)**
@@ -41,32 +40,27 @@
 
 | No. |          Team         | Thành viên | Ghi chú |
 |:---:|:---------------------:|:----------:|:-------:|
-| 1   | [Điều hành (Executive)](#1-team-dieu-hanh) | 5          |         |
-| 2   | [Nghiên cứu (R&D)](#2-team-r-d)      | 4          |         |
-| 3   | [CTFers](#3-team-ctfers)               | *          |         |
-| 4   | [Network (+ CCNA)](#4-team-network)      | *          |         |
-| 5   | [Developers](#5-team-developers)          | *          |         |
-| -   | [Thành viên (Members)](#team-members)  | *          |         |
+| 1   | [Điều hành (Executive)](#1-team-dieu-hanh) | 3  | |
+| 2   | [Nghiên cứu (R&D)](#2-team-r-d)      | 4        | |
+| 3   | [CTFers](#3-team-ctfers)                | *        | |
+| 4   | [Network (+ CCNA)](#4-team-network)  | *        | |
+| 5   | [Devs](#5-team-developers)           | *        | |
+| -   | [Thành viên (Members)](#team-members)| *        | |
 
 <a name="1-team-dieu-hanh"></a>
-**1. Team Điều hành**
+**1. Team Điều hành (Executive)**
 
-* Phụ trách chung (1):
-	* Quản lý tổng thể các hoạt động
-	* Quản lý cấu hình nhóm, bao gồm: gmail, facebook group, github repo, gitter chat room, ..
-	* Quản lý repo, đặc biệt là: `docs`, `logs`, ..
+* Manager(1):
+	* Quản lý tổng thể: hoạt động nhóm, nhân sự, .. 
+	* Quản lý cấu hình nhóm, bao gồm: Gmail, Facebook group, Github repository, Slack, .. 
 
-* Phụ trách meet-up (2):
-	* Lập kế hoạch, tạo event Facebook cho meet-up
-	* Kêu gọi speakers, thảo luận chọn bài nói (bằng issue)
-	* Phân công chuẩn bị mọi thứ cho meet-up: máy chiếu, phấn bảng, người chụp hình, ..
-	* Đưa schedule lên repo `meetup`
-	* Tạo album ảnh và đăng ảnh về buổi meet-up
-	* Quản lý repo `meetup`
+* Vice Manager(1):
+	* Lên kế hoạch, tổ chức các events 
+	* Quản lý Slack chat room 
 
-* Phụ trách forum (2):
-	* Quản lý repo `forum`
-	* Đăng các issue hay đang được thảo luận trong ngày lên Facebook
+* Banner designer(1):
+	* Thiết kế banners cho các events của nhóm 
+	* Đào tạo chuyển giao cho khóa sau (nếu có thể) 
 
 <a name="2-team-r-d"></a>
 **2. Team R&D**
@@ -110,26 +104,31 @@
 <a name="meet-up"></a>
 ### Quy trình tổ chức Meet-up
 
-* [đang cập nhật]
-
-
-<a name="forum"></a>
-### Hướng dẫn sử dụng forum
-
-* [đang cập nhật]
-
+* Lập kế hoạch, tạo event Facebook cho meet-up
+* Kêu gọi speakers, thảo luận chọn bài nói (bằng issue)
+* Phân công chuẩn bị mọi thứ cho meet-up: máy chiếu, phấn bảng, người chụp hình, ..
+* Đưa schedule lên repo `meetup`
+* Tổ chức buổi meet-up offline.
+* Tổng kết, tạo album và đăng ảnh về buổi meet-up
 
 <a name="ctf-contest"></a>
 ### Quy trình tổ chức CTF contest
 
-* [đang cập nhật]
-
+* Thảo luận phương án tổ chức, phân công người ra đề.
+* Đăng tin thông báo về CTF contest lên Facebook "ATTT Phía nam": thời gian, địa điểm, mục đích, thành phần tham gia, giải thưởng.
+* Tổng hợp đề thi và triển khai Server tính điểm.
+* Cập nhật thông tin về thời gian, địa điểm (nếu có thay đổi).
+* Phân công chuẩn bị mọi thứ: máy chiếu, phấn bảng, người chụp hình, ..
+* Tổ chức buổi CTF contest offline.
+* Tổng hợp kết quả, trao giải tại chỗ.
+* Tổng kết, đăng tin thông báo kết thúc CTF contest.
 
 <a name="ctf-online"></a>
 ### Quy trình tham gia CTF online
 
-* [đang cập nhật]
-
+* Đăng tin cập nhật về CTF online mới (Facebook nhóm và Slack chat).
+* Tham gia chơi và thảo luận (live).
+* Tổng hợp kết quả các team trong KS.IS. 
 
 <a name="ccna-training"></a>
 ### Quy trình tổ chức CCNA Training
