@@ -1,7 +1,7 @@
 ## About: KS.IS Group 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ks-is/docs/master/git-logo.png?raw=true"/>
+  <img src="https://raw.githubusercontent.com/ks-is/docs/master/logo_kma.png?raw=true"/>
 </p>
 
 **KMA South Information Security** (viết tắt là **KS.IS**) là group về CNTT, An toàn thông tin của Sinh viên Học viện kỹ thuật Mật mã - Cơ sở phía Nam.
