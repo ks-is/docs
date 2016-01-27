@@ -24,15 +24,17 @@ Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là SFT).
 | 20/09/2014  | KMA CTF 2014         | 3rd prize |
 | 08/11/2014  | Sơ khảo SVATTT 2014  | 3rd co-prize |
 | 22/11/2014  | Phát triển & mở rộng thành SFT2 |  |
-| 29/11/2014  | CCNA Training Course | Start |
-| 21/12/2014  | SFT Training Course  | Start |
-| 29/03/2015  | SFT Training Course  | End   |
+| 29/11/2014  | CCNA K1 Training     | Start |
+| 21/12/2014  | CTF Training         | Start |
+| 29/03/2015  | CTF Training         | End   |
 | 04/04/2015  | SFT CTF 2015 (1st)   | Host  |
-| 16/05/2015  | CCNA Training Course | End   |
+| 16/05/2015  | CCNA K1 Training     | End   |
 | 14/06/2015  | SFT CTF 2015 (2nd)   | Host         |
 | 12/09/2015  | Phát triển & mở rộng thành KS.IS Group |  |
 | 03/10/2015  | KMA CTF 2015 (3 teams: InvisibleHat, AT10E, FKT)| Champion |
+| 17/10/2015  | CCNA K2 Training     | Start |
 | 06/11/2015  | Sơ khảo SVATTT 2015  | 2nd co-prize |
+| 16/01/2016  | CHFI Training        | Start |
 | [...]  | [...]   | [...]  |
 
 #### Danh sách thành viên (2015)
