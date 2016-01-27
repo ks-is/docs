@@ -42,7 +42,7 @@
 |:---:|:---------------------:|:----------:|:-------:|
 | 1   | [Điều hành (Executive)](#1-team-dieu-hanh) | 3  | |
 | 2   | [Nghiên cứu (R&D)](#2-team-r-d)      | 4        | |
-| 3   | [CTFers](#3-team-ctfers)                | *        | |
+| 3   | [CTFers](#3-team-ctfers)             | *        | |
 | 4   | [Network (+ CCNA)](#4-team-network)  | *        | |
 | 5   | [Devs](#5-team-developers)           | *        | |
 | -   | [Thành viên (Members)](#team-members)| *        | |
@@ -133,8 +133,10 @@
 <a name="ccna-training"></a>
 ### Quy trình tổ chức CCNA Training
 
-* [đang cập nhật]
-
+* Thảo luận phương án tổ chức, người đứng lớp (Instructors).
+* Phối hợp với meetup đầu năm học để tổ chức cho các bạn mới đăng ký học.
+* Lập danh sách học viên.
+* Tổ chức lớp (Gửi nội dung tự học qua Email + Offline Thứ 7 hàng tuần).
 
 ----
 
