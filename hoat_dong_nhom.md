@@ -7,9 +7,9 @@
 
 > Description: Hướng dẫn về hoạt động nhóm cho thành viên mới
 >
-> Author: toan-ksis
+> Author: hardwork
 >
-> Last update: 14/11/2015
+> Last update: 27/01/2016
 
 ## Nội dung
 
