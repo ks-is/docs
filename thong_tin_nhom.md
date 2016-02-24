@@ -20,7 +20,7 @@ Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là SFT).
 | Date  | Events  | Note |
 | :---------: |:---------------------| :----:|
 | 12/12/2013  | Thành lập nhóm SFT   | |
-| 15/12/2013  | KMA CTF 2013         | 4th prize |
+| 15/12/2013  | KMA CTF 2013         | 4th co-prize |
 | 20/09/2014  | KMA CTF 2014         | 3rd prize |
 | 08/11/2014  | Sơ khảo SVATTT 2014  | 3rd co-prize |
 | 22/11/2014  | Phát triển & mở rộng thành SFT2 |  |
