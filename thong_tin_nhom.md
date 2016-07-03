@@ -10,10 +10,10 @@ Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là SFT).
 
 #### Co-Founder
 
-* Hardworking (toan-ksis)
-* SilverShooter (LeAn)
-* BinhPham (matsac)
-* TamQuangVu (TamVu)
+* Hardw0rk (Van Toan Ha)
+* SilverShooter (Le An)
+* BinhPham (Binh Pham)
+* TamVu (Tam Quang Vu)
 
 #### Timeline
 
@@ -25,18 +25,20 @@ Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là SFT).
 | 08/11/2014  | Sơ khảo SVATTT 2014  | 3rd co-prize |
 | 22/11/2014  | Phát triển & mở rộng thành SFT2 |  |
 | 29/11/2014  | CCNA K1 Training     | Start |
-| 21/12/2014  | CTF Training         | Start |
-| 29/03/2015  | CTF Training         | End   |
+| 21/12/2014  | CTF Training 2015    | Start |
+| 29/03/2015  | CTF Training         | Finish|
 | 04/04/2015  | SFT CTF 2015 (1st)   | Host  |
-| 16/05/2015  | CCNA K1 Training     | End   |
-| 14/06/2015  | SFT CTF 2015 (2nd)   | Host         |
+| 16/05/2015  | CCNA K1 Training     | Finish|
+| 14/06/2015  | SFT CTF 2015 (2nd)   | Host  |
 | 12/09/2015  | Phát triển & mở rộng thành KS.IS Group |  |
 | 03/10/2015  | KMA CTF 2015 (3 teams: InvisibleHat, AT10E, FKT)| Champion |
 | 17/10/2015  | CCNA K2 Training     | Start |
 | 06/11/2015  | Sơ khảo SVATTT 2015  | 2nd co-prize |
 | 16/01/2016  | CHFI Training        | Start |
-| 11/03/2016  | CHFI Training        | Cancel |
-| 21/03/2016  | CTF Training K2      | Start |
+| 11/03/2016  | CHFI Training        | **Cancel** |
+| 21/03/2016  | CTF Training 2016    | Start |
+| 06/04/2016  | CCNA K3 Training     | Start |
+| 11/06/2016  | CCNA K2 Training     | **Finish** |
 | [...]  | [...]   | [...]  |
 
 #### Danh sách thành viên (2015)
