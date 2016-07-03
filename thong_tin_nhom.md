@@ -24,7 +24,7 @@ Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là SFT).
 | 20/09/2014  | KMA CTF 2014         | 3rd prize |
 | 08/11/2014  | Sơ khảo SVATTT 2014  | 3rd co-prize |
 | 22/11/2014  | Phát triển & mở rộng thành SFT2 |  |
-| 29/11/2014  | **CCNA K1 Training**     | Start |
+| 29/11/2014  | CCNA K1 Training     | Start |
 | 21/12/2014  | CTF Training 2015    | Start |
 | 29/03/2015  | CTF Training         | **Finish**|
 | 04/04/2015  | SFT CTF 2015 (1st)   | Host  |
@@ -37,11 +37,11 @@ Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là SFT).
 | 16/01/2016  | CHFI Training        | Start |
 | 11/03/2016  | CHFI Training        | **Cancel** |
 | 21/03/2016  | CTF Training 2016    | Start |
-| 06/04/2016  | **CCNA K3 Training**     | Start |
+| 06/04/2016  | CCNA K3 Training     | Start |
 | 11/06/2016  | CCNA K2 Training     | **Finish** |
 | [...]  | [...]   | [...]  |
 
-#### Danh sách thành viên (2015)
+#### Danh sách thành viên (2016)
 
 [đang cập nhật]
 
