@@ -25,17 +25,9 @@
 <a name="nguyen-tac-tham-gia"></a>
 ### Nguyên tắc tham gia
 
-:one: Example
-
-:two: Example
-
-:three: Example
-
-:four: Example
-
-:five: Example
-
-:six: Example
+- [x] Example
+- [  ] Example
+- [x] Example
 
 
 
