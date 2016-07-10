@@ -25,9 +25,9 @@
 <a name="nguyen-tac-tham-gia"></a>
 ### Nguyên tắc tham gia
 
-- [x] Example
-- [  ] Example
-- [x] Example
+:point_right: Example
+:point_right: Example
+:point_right: Example
 
 
 
