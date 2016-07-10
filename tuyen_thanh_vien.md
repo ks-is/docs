@@ -25,11 +25,13 @@
 <a name="nguyen-tac-tham-gia"></a>
 ### Nguyên tắc tham gia
 
-:point_right: Example
+:point_right: Tự nguyện : 
 
-:point_right: Example
+:point_right: Tích cực : 
 
-:point_right: Example
+:point_right: Cộng đồng : 
+
+:point_right: Phát triển bản thân : 
 
 
 
