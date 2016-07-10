@@ -1,13 +1,13 @@
 ## Hoạt động nhóm 
 
 [![docs](icon/docs.png)](https://github.com/ks-is/docs)
-[![chat](icon/chat.png)](https://ksis.slack.com/messages/chat)
+[![chat](icon/chat.png)](https://gitter.im/ksis-group/chat)
 [![fb](icon/fb.png)](https://www.facebook.com/groups/kmasouth.is)
 [![meetup](icon/meet.png)](https://github.com/ks-is/meetup/issues)
 
 > Description: Hướng dẫn về hoạt động nhóm cho thành viên mới
 >
-> Author: hardwork
+> Author: hardw0rk
 >
 > Last update: 27/01/2016
 
