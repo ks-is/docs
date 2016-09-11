@@ -1,9 +1,9 @@
 ## Biên bản Họp Team điều hành - 11/09/2016
 
-[![docs](icon/docs.png)](https://github.com/ks-is/docs)
-[![chat](icon/chat.png)](https://gitter.im/ksis-group/chat)
-[![fb](icon/fb.png)](https://www.facebook.com/groups/kmasouth.is)
-[![meetup](icon/meet.png)](https://github.com/ks-is/meetup/issues)
+[![docs](../icon/docs.png)](https://github.com/ks-is/docs)
+[![chat](../icon/chat.png)](https://gitter.im/ksis-group/chat)
+[![fb](../icon/fb.png)](https://www.facebook.com/groups/kmasouth.is)
+[![meetup](../icon/meet.png)](https://github.com/ks-is/meetup/issues)
 
 > Description: Biên bản Họp Team điều hành - 11/09/2016
 >
