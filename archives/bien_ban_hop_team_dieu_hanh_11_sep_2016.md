@@ -1,4 +1,4 @@
-## Biên bản Họp Team điều hành - 11/09/2016
+## Biên bản họp team điều hành - 11/09/2016
 
 [![docs](../icon/docs.png)](https://github.com/ks-is/docs)
 [![chat](../icon/chat.png)](https://gitter.im/ksis-group/chat)
