@@ -13,7 +13,14 @@
 
 ---
 
-## Nội dung cuộc họp
+### Thành phần tham gia
+
+- 1. Lâm Phát Đạt (Kevin)
+- 2. Phạm Trung Tính (MrVermouth)
+- 3. Lê Trường An (Trái Ổi)
+- 4. Hà Văn Toàn (Hardw0rk)
+
+### Nội dung cuộc họp
 
 **1. Phổ biến thông tin nhóm:** Nhóm sáng lập, Ngày thành lập, Mục tiêu hoạt động.
 
