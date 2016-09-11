@@ -24,7 +24,7 @@
 |  1  | Đỗ Đình Huân      | Cố vấn - Advisor             | - Cố vấn nhóm Web Pentest                                                    | - Định hướng                               |
 |  2  | Vũ Quang Tâm      | Cố vấn - Advisor             | - Cố vấn nhóm SE (Python)                                                    | - Định hướng                               |
 |  3  | Lâm Phát Đạt      | Ủy viên - Committee          | - Quản lý nhóm Web Pentest <br>- Khóa học Python căn bản                         | - Giao Task, hỗ trợ, training              |
-|  4  | **Phạm Trung Tính**   | Phó nhóm - Vice Group Leader | - Phụ trách Meetup <br>- Quản lý nhóm RE                                         | - Định hướng <br>- Giao Task, hỗ trợ, training |
+|  4  | **Phạm Trung Tính**   | Ủy viên - Committee | - Phụ trách Meetup <br>- Quản lý nhóm RE                                         | - Định hướng <br>- Giao Task, hỗ trợ, training |
 |  5  | Nguyễn Công Thạnh | Ủy viên - Committee          | - Quản lý nhóm SE                                                            | - Định hướng <br>- Giao Task, hỗ trợ, training |
 |  6  | **Hà Văn Toàn**       | Trưởng nhóm - Group Leader   | - Phụ trách chung <br>- Quản lý nhóm Sysadmin <br>- Khóa học mạng căn bản (1/2 CCNA) | - Định hướng <br>- Giao Task, hỗ trợ, training |
 |     |                   |                              |                                                                              |                                            |
