@@ -19,7 +19,7 @@ Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là SFT).
 
 | Date  | Events  | Note |
 | :---------: |:---------------------| :----:|
-| 12/12/2013  | Founded SFT  | |
+| 12/12/2013  | **Founded SFT**  | |
 | 15/12/2013  | KMA CTF 2013         | 4th |
 | 20/09/2014  | KMA CTF 2014         | 3rd |
 | 08/11/2014  | **Student with Information Security 2014 - South Prequals (SFT)** | **3rd** |
