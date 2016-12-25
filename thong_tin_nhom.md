@@ -27,9 +27,9 @@ Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là SFT).
 | 29/11/2014  | CCNA K1 Training     | Start |
 | 21/12/2014  | CTF Training 2015    | Start |
 | 29/03/2015  | CTF Training         | **Finish**|
-| 04/04/2015  | SFT CTF 2015 1st - Host | 1st: Unknown, 2nd: MrVermouth, 3rd: Tan Phuoc |
+| 04/04/2015  | SFT CTF 2015 1st (1st: Unknown, 2nd: MrVermouth, 3rd: Tan Phuoc) | Host |
 | 16/05/2015  | CCNA K1 Training     | **Finish**|
-| 14/06/2015  | SFT CTF 2015 2nd - Host | 1st: MrVermouth, 2nd: Unknown  |
+| 14/06/2015  | SFT CTF 2015 2nd (1st: MrVermouth, 2nd: Unknown) | Host |
 | 12/09/2015  | **Developed to KS.IS Group** |  |
 | 03/10/2015  | **KMA CTF 2015 (3 teams: InvisibleHat, AT10E, FKT)**| **1st prize** |
 | 17/10/2015  | CCNA K2 Training     | Start |
@@ -40,7 +40,7 @@ Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là SFT).
 | 06/04/2016  | CCNA K3 Training     | Start |
 | 11/06/2016  | CCNA K2 Training     | **Finish** |
 | 05/11/2016  | **Student with Information Security 2016 - North Prequals (KMA Warriors: Le An, Do Huan ; The Wolves: MrVermouth)** | **1st**, 2nd |
-| 02/12/2016  | **Student with Information Security 2016 - Final (KMA Warriors: Le An, Do Huan | The Wolves: MrVermouth)** | **3rd**, 4th |
+| 02/12/2016  | **Student with Information Security 2016 - Final (KMA Warriors: Le An, Do Huan; The Wolves: MrVermouth)** | **3rd**, 4th |
 | [...]  | [...]   | [...]  |
 
 #### Danh sách thành viên (2016)
