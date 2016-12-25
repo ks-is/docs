@@ -41,6 +41,7 @@ Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là SFT).
 | 11/06/2016  | CCNA K2 Training     | **Finish** |
 | 05/11/2016  | **Student with Information Security 2016 - North Prequals (KMA Warriors: Le An, Do Huan ; The Wolves: MrVermouth)** | **1st**, 2nd |
 | 02/12/2016  | **Student with Information Security 2016 - Final (KMA Warriors: Le An, Do Huan; The Wolves: MrVermouth)** | **3rd**, 4th |
+| 22/12/2016  | CCNA K3 Training     | **Finish** |
 | [...]  | [...]   | [...]  |
 
 #### Danh sách thành viên (2016)
