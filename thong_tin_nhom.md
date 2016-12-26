@@ -20,9 +20,9 @@ Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là SFT).
 | Date  | Events  | Note |
 | :---------: |:---------------------| :----:|
 | 12/12/2013  | **Founded SFT**  | |
-| 15/12/2013  | KMA CTF 2013         | 4th prize |
-| 20/09/2014  | KMA CTF 2014         | 3rd prize |
-| 08/11/2014  | **Student with Information Security 2014 - South Prequals (SFT)** | **3rd prize** |
+| 15/12/2013  | KMA CTF 2013         | 4th |
+| 20/09/2014  | KMA CTF 2014         | 3rd |
+| 08/11/2014  | **Student with Information Security 2014 - South Prequals (SFT)** | **3rd** |
 | 22/11/2014  | **Developed to SFT2** |  |
 | 29/11/2014  | CCNA K1 Training     | Start |
 | 21/12/2014  | CTF Training 2015    | Start |
@@ -31,9 +31,9 @@ Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là SFT).
 | 16/05/2015  | CCNA K1 Training     | **Finish**|
 | 14/06/2015  | SFT CTF 2015 2nd (1st: MrVermouth, 2nd: Unknown) | Host |
 | 12/09/2015  | **Developed to KS.IS Group** |  |
-| 03/10/2015  | **KMA CTF 2015 (3 teams: InvisibleHat, AT10E, FKT)**| **1st prize** |
+| 03/10/2015  | **KMA CTF 2015 (3 teams: InvisibleHat, AT10E, FKT)**| **1st** |
 | 17/10/2015  | CCNA K2 Training     | Start |
-| 06/11/2015  | **Student with Information Security 2015 - South Prequals (InvisibleHat)**  | **2nd prize** |
+| 06/11/2015  | **Student with Information Security 2015 - South Prequals (InvisibleHat)**  | **2nd** |
 | 16/01/2016  | CHFI Training        | Start |
 | 11/03/2016  | CHFI Training        | **Cancel** |
 | 21/03/2016  | CTF Training 2016    | Start |
