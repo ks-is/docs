@@ -25,15 +25,15 @@
 <a name="cach-thuc-hoat-dong"></a>
 ### Cách thức hoạt động
 
-* Meet-up đầu năm học (Tháng 9 đến Tháng 10): `Giao lưu với Sinh viên khóa mới`.
-* Tổ chức các buổi meet-up về `Công nghệ` hàng tháng (Thứ 7 hoặc Chủ nhật tuần đầu tiên của Tháng - Team Điều hành phụ trách).
-* Tổ chức các cuộc thi: `CTF contest` (3 tháng một lần - Team CTFers phụ trách).
-* Tham gia cùng nhau trong các cuộc thi `CTF Online`.
-* `CCNA Training` (Thứ 7 hàng tuần - Team Network phụ trách).
-* `CTF Training` (chưa có kế hoạch cụ thể).
+* Meetup đầu năm học (Tháng 9 đến Tháng 10 hàng năm): Giao lưu với Sinh viên khóa mới.
+* Meetup chia sẻ kinh nghiệm học tập và công việc.
+* Meetup kỹ thuật, công nghệ (Thứ 7 hoặc Chủ nhật, Tuần đầu của Tháng): chia sẻ, thảo luận về kỹ thuật, công nghệ mới.
+* Cuộc thi CTF nội bộ.
+* Cùng tham gia chơi giải CTF online.
+* Các khóa đào tạo ngắn hạn: CTF, CCNA, C, Python.
+* Đào tạo dài hạn theo hình thức Sub-Team: Develop Team, Web Pentest Team, RE Team, SA Team.
 
-**Lưu ý: Mỗi tháng chỉ tổ chức tối đa 1 buổi meet-up (không tính CCNA Training)**
-
+**Lưu ý:** Mỗi tháng chỉ tổ chức tối đa 1 buổi meetup (ngoại trừ các khóa học).
 
 <a name="to-chuc-nhan-su"></a>
 ### Tổ chức nhân sự
