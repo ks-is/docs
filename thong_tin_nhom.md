@@ -42,9 +42,17 @@ Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là SFT).
 | xx/01/2017  | CTF Training 2017    | Start |
 | [...]  | [...]   | [...]  |
 
-#### Danh sách thành viên (2016)
+#### Danh sách thành viên
 
-[đang cập nhật]
+* Đang cập nhật...
+* Có danh sách liên lạc nội bộ kèm theo.
+
+|    Time   | Total |         Active members       |       Executive         |
+|:---------:|:-----:|------------------------------|-------------------------|
+| 2013-2014 |   ~8  | * Hardw0rk (Van Toan Ha) (C)<br>* SilverShooter (Le An)<br>* hacker288 (Do Huan)<br>* TamVu (Tam Quang Vu) | * Hardw0rk (Van Toan Ha) (C)                                                                                        |
+|    2015   |  ~25  | * MrVermouth (Pham Trung Tinh)<br>* Hades (Duong Tuan Thong)<br>* lnhquang1993 (Le Nguyen Hong Quang)<br>* K3v1n (Lam Phat Dat)<br>* TraiOi (Le Truong An)<br>* dthucsida (Doan Duy Thuc)<br>* cunhuly (Pham Hoang Nhu)<br>* tynken0496 (Nguyen Van Thanh) | * Hardw0rk (Van Toan Ha) (C) |
+|    2016   |  ~35  | * MrVermouth (Pham Trung Tinh)<br>* lnhquang1993 (Le Nguyen Hong Quang)<br>* TraiOi (Le Truong An)<br>* nct1212 (Nguyen Cong Thanh)<br>* K3v1n (Lam Phat Dat) | * Hardw0rk (Van Toan Ha) (C)<br>* MrVermouth (Pham Trung Tinh)<br>* K3v1n (Lam Phat Dat)<br>* nct1212 (Nguyen Cong Thanh) |
+|    2017   |       |                             | * MrVermouth (Pham Trung Tinh) (C) |
 
 #### Giấy phép hoạt động
 
