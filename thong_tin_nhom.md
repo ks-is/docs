@@ -48,7 +48,7 @@ Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là SFT).
 |:---------:|:-----:|------------------------------|-------------------------|
 | 2013-2014 |   ~8  | - Hardw0rk (Van Toan Ha) (C)<br>- SilverShooter (Le An)<br>- hacker288 (Do Huan)<br>- TamVu (Tam Quang Vu) | - Hardw0rk (Van Toan Ha) (C) |
 |    2015   |  ~25  | - MrVermouth (Pham Trung Tinh)<br>- Hades (Duong Tuan Thong)<br>- lnhquang1993 (Le Nguyen Hong Quang)<br>- TraiOi (Le Truong An)<br>- K3v1n (Lam Phat Dat)<br>- dthucsida (Doan Duy Thuc)<br>- cunhuly (Pham Hoang Nhu)<br>- tynken0496 (Nguyen Van Thanh)<br>- Mai Tan Phuoc | - Hardw0rk (Van Toan Ha) (C) |
-|    2016   |  ~35  | - MrVermouth (Pham Trung Tinh)<br>- lnhquang1993 (Le Nguyen Hong Quang)<br>- TraiOi (Le Truong An)<br>- nct1212 (Nguyen Cong Thanh)<br>- K3v1n (Lam Phat Dat) | - Hardw0rk (Van Toan Ha) (C)<br>- MrVermouth (Pham Trung Tinh)<br>- K3v1n (Lam Phat Dat)<br>- nct1212 (Nguyen Cong Thanh) |
+|    2016   |  ~35  | - MrVermouth (Pham Trung Tinh)<br>- lnhquang1993 (Le Nguyen Hong Quang)<br>- TraiOi (Le Truong An)<br>- K3v1n (Lam Phat Dat)<br>- nct1212 (Nguyen Cong Thanh) | - Hardw0rk (Van Toan Ha) (C)<br>- MrVermouth (Pham Trung Tinh)<br>- K3v1n (Lam Phat Dat)<br>- nct1212 (Nguyen Cong Thanh) |
 |    2017   |  ~35  |                             | - MrVermouth (Pham Trung Tinh) (C) |
 |   [...]   | [...] | [...] | [...] |
 
