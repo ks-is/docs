@@ -13,12 +13,7 @@
 
 ## Nội dung
 
-* **[Cách thức hoạt động](#cach-thuc-hoat-dong)**
-* **[Tổ chức nhân sự](#to-chuc-nhan-su)**
-* **[Quy trình tổ chức Meet-up](#meet-up)**
-* **[Quy trình tổ chức CTF contest](#ctf-contest)**
-* **[Quy trình tham gia CTF online](#ctf-online)**
-* **[Quy trình tổ chức CCNA Training](#ccna-training)**
+* **[Nguyên tắc tham gia](#nguyen-tac-tham-gia)**
 
 ----
 
@@ -33,8 +28,7 @@
 
 :point_right: Phát triển bản thân : 
 
-
-
+[đang cập nhật]
 
 ----
 
