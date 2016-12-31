@@ -15,7 +15,7 @@ Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là SFT).
 * BinhPham (Binh Pham)
 * TamVu (Tam Quang Vu)
 
-#### Activities
+#### Timeline
 
 | Date  | Events  | Note |
 | :---------: |---------------------| :----:|
