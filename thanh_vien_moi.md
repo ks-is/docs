@@ -1,9 +1,5 @@
 ### Những việc cần làm giành cho thành viên mới
 
-> **Lưu ý:** Trước khi chấp nhận một thành viên mới, Trưởng nhóm cần có sự điều tra về thông tin đăng ký, hỏi đáp về lý do họ tham gia, ...
->
-> **KS.IS-Group**
-
 #### 1. Facebook:
 - Yêu cầu tham gia nhóm Fb: "https://www.facebook.com/groups/kmasouth.is/"
 - Gửi thông tin cá nhân: Họ tên, Lớp, Email, SĐT qua Form đăng ký.
