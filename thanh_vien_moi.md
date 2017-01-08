@@ -20,7 +20,7 @@
 
 #### 5. Các thông tin về nhóm:
 
-https://www.facebook.com/groups/kmasouth.is/permalink/1694066777580026/"
+https://www.facebook.com/groups/kmasouth.is/permalink/1694066777580026/
 
 #### 6. Đọc lại các bài đăng trong nhóm Facebook, thông tin nhóm trên Github.
 
