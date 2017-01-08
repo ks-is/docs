@@ -24,5 +24,13 @@ https://www.facebook.com/groups/kmasouth.is/permalink/1694066777580026/
 
 #### 6. Đọc lại các bài đăng trong nhóm Facebook, thông tin nhóm trên Github.
 
+Thông tin liên hệ Team điều hành nhóm:
+
+- Software Engineering: [Công Thạnh](https://www.facebook.com/NCThanh1212)
+- Web Pentesting: [Lâm Phát Đạt](https://www.facebook.com/lpdat11)
+- Reverse Engineering: [Phạm Trung Tính](https://www.facebook.com/profile.php?id=100009047822201)
+- Network/System: [Hà Văn Toàn](https://www.facebook.com/hatoan.vniss)
+
 ---
 
+**Phụ trách KS.IS-Group: Phạm Trung Tính**
