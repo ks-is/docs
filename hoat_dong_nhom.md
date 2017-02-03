@@ -1,39 +1,41 @@
-## Hoạt động nhóm 
+## Hoạt động nhóm
 
 [![docs](icon/docs.png)](https://github.com/ks-is/docs)
 [![chat](icon/chat.png)](https://gitter.im/ksis-group/chat)
 [![fb](icon/fb.png)](https://www.facebook.com/groups/kmasouth.is)
 [![meetup](icon/meet.png)](https://github.com/ks-is/meetup/issues)
 
-> Description: Hướng dẫn về hoạt động nhóm cho thành viên mới
+> Mô tả: Hướng dẫn về hoạt động nhóm cho thành viên
 >
-> Author: hardw0rk
+> Người viết: Hardw0rk
 >
-> Last update: 27/01/2016
+> Lần cuối chỉnh sửa: 04/02/2016
 
 ## Nội dung
 
-* **[Cách thức hoạt động](#cach-thuc-hoat-dong)**
+* **[Các hoạt động chính](#cac-hoat-dong-chinh)**
 * **[Tổ chức nhân sự](#to-chuc-nhan-su)**
-* **[Quy trình tổ chức Meet-up](#meet-up)**
-* **[Quy trình tổ chức CTF contest](#ctf-contest)**
-* **[Quy trình tham gia CTF online](#ctf-online)**
-* **[Quy trình tổ chức CCNA Training](#ccna-training)**
+* **[Quy trình Tuyển thành viên](#tuyen-thanh-vien)**
+* **[Quy trình Tổ chức Meetup](#meet-up)**
+* **[Quy trình Tổ chức CTF nội bộ](#ctf-contest)**
+* **[Quy trình Tổ chức đào tạo dài hạn - SubTeam Training](#subteam-training)**
+* **[Quy trình Tổ chức đào tạo ngăn hạn - Course Training](#course-training)**
 
 ----
 
-<a name="cach-thuc-hoat-dong"></a>
-### Cách thức hoạt động
+<a name="cac-hoat-dong-chinh"></a>
+### Các hoạt động chính
 
-* Meetup đầu năm học (Tháng 9 đến Tháng 10 hàng năm): Giao lưu với Sinh viên khóa mới.
-* Meetup chia sẻ kinh nghiệm học tập và công việc.
-* Meetup kỹ thuật, công nghệ (Thứ 7 hoặc Chủ nhật, Tuần đầu của Tháng): chia sẻ, thảo luận về kỹ thuật, công nghệ mới.
-* Cuộc thi CTF nội bộ.
-* Cùng tham gia chơi giải CTF online.
-* Các khóa đào tạo ngắn hạn: CTF, CCNA, C, Python.
-* Đào tạo dài hạn theo hình thức Sub-Team: Develop Team, Web Pentest Team, RE Team, SA Team.
-
-**Lưu ý:** Mỗi tháng chỉ tổ chức tối đa 1 buổi meetup (ngoại trừ các khóa học).
+|   |       Hoạt động     |                                   Mô tả                                |         Thời gian         | Thành phần |     Phụ trách       |
+|:-:|:--------------------------:|:-------------------------------------------------------------------------:|:------------------------------:|:-------------------:|:------------------------:|
+| 1 | Meetup đầu năm học | - Giao lưu tân sinh viên<br>- Trao đổi định hướng<br>- Tuyển,thành viên. | Tháng 10 hoặc 11 | Tất cả | Trưởng nhóm, Cố vấn |
+| 2 | Meetup kỹ thuật, công nghệ | Chia sẻ, thảo luận về kỹ thuật, công nghệ mới. | T7/CN tuần đầu trong tháng | Tất cả | Trưởng nhóm |
+| 3 | Meetup định hướng | Chia sẻ định hướng, kinh nghiệm học tập, làm việc. | N/A | Tất cả | Trưởng nhóm, Cố vấn |
+| 4 | Course Training | - Đào tạo ngắn hạn, dưới dạng khóa học 2-4 tháng.<br>- VD: C/C++, Python, CCNA, LPI. | Giai đoạn đầu của SubTeam Training | N/A | Trưởng phân nhóm |
+| 5 | SubTeam Training | - Đào tạo dài hạn, kế hoạch tối thiểu 6 tháng.<br>- Chia thành các nhóm nhỏ (SubTeam) với mục tiêu, định hướng đào tạo rõ ràng theo một vị trí công việc thực tế. | N/A | N/A | Trưởng nhóm, Trưởng phân nhóm |
+| 6 | KS-IS CTF | Cuộc thi CTF nội bộ: đủ các lĩnh vực, hình thức thi cá nhân. | 2 lần/năm | N/A | Trưởng nhóm, Trưởng phân nhóm, Cố vấn |
+| 7 | CTF Online | Cuộc thi CTF Online: chơi chung CTF Online có kế hoạch tập trung. | N/A  | N/A | Trưởng nhóm, Trưởng phân nhóm |
+| 8 | [...] | [...] | [...] | [...] | [...] |
 
 <a name="to-chuc-nhan-su"></a>
 ### Tổ chức nhân sự
