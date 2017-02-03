@@ -13,25 +13,24 @@
 
 ## Nội dung
 
-* **[Các hoạt động chính](#cac-hoat-dong-chinh)**
-* **[Tổ chức nhân sự](#to-chuc-nhan-su)**
-* **[Quy trình Tuyển thành viên](#tuyen-thanh-vien)**
-* **[Quy trình Tổ chức Meetup](#meet-up)**
-* **[Quy trình Tổ chức CTF nội bộ](#ctf-contest)**
-* **[Quy trình Tổ chức đào tạo dài hạn - SubTeam Training](#subteam-training)**
-* **[Quy trình Tổ chức đào tạo ngăn hạn - Course Training](#course-training)**
+* **[1. Các hoạt động chính](#cac-hoat-dong-chinh)**
+* **[2. Tổ chức nhân sự](#to-chuc-nhan-su)**
+* **[3. Quy trình Tuyển thành viên](#tuyen-thanh-vien)**
+* **[4. Quy trình Tổ chức Meetup](#meet-up)**
+* **[5. Quy trình Tổ chức CTF nội bộ](#ctf-contest)**
+* **[6. Quy trình Tổ chức đào tạo dài hạn - SubTeam Training](#subteam-training)**
+* **[7. Quy trình Tổ chức đào tạo ngăn hạn - Course Training](#course-training)**
+* **[Tham khảo](#tham-khao)**
 
 ----
 
 <a name="cac-hoat-dong-chinh"></a>
-### Các hoạt động chính
+### 1. Các hoạt động chính
 
 - Dưới đây là thống kê các hoạt động chính của Nhóm.
 - Chỉ tổ chức 1 Meetup trong 1 tháng (không tính Khóa đào tạo ngắn hạn, dài hạn).
-- Ghi chú: 
-    + Trưởng nhóm (Group Leader): phụ trách toàn bộ Nhóm (KS.IS-Group).
-    + Trưởng phân nhóm (SubTeam Leader): phụ trách quản lý 1 phân nhóm (SubTeam).
-    + Cố vấn (Advisor): các anh chị khóa trên, cựu quản lý Nhóm.
+- Ghi chú: Trưởng nhóm[[?](#tham-khao)], Trưởng phân nhóm[[?](#tham-khao)], Cố vấn[[?](#tham-khao)].
+
 
 **Bảng thống kê hoạt động:**
 
@@ -47,7 +46,7 @@
 |  - | [...] | [...] | [...] | [...] | [...] |
 
 <a name="to-chuc-nhan-su"></a>
-### Tổ chức nhân sự
+### 2. Tổ chức nhân sự
 
 | No. |          Team         | Thành viên | Ghi chú |
 |:---:|:---------------------:|:----------:|:-------:|
@@ -113,7 +112,7 @@
 
 
 <a name="meet-up"></a>
-### Quy trình tổ chức Meet-up
+### 3. Quy trình tổ chức Meet-up
 
 * Lập kế hoạch, tạo event Facebook cho meet-up
 * Kêu gọi speakers, thảo luận chọn bài nói (bằng issue)
@@ -123,7 +122,7 @@
 * Tổng kết, tạo album và đăng ảnh về buổi meet-up
 
 <a name="ctf-contest"></a>
-### Quy trình tổ chức CTF contest
+### 4. Quy trình tổ chức CTF contest
 
 * Thảo luận phương án tổ chức, phân công người ra đề.
 * Đăng tin thông báo về CTF contest lên Facebook "ATTT Phía nam": thời gian, địa điểm, mục đích, thành phần tham gia, giải thưởng.
@@ -135,14 +134,14 @@
 * Tổng kết, đăng tin thông báo kết thúc CTF contest.
 
 <a name="ctf-online"></a>
-### Quy trình tham gia CTF online
+### 5. Quy trình tham gia CTF online
 
 * Đăng tin cập nhật về CTF online mới (Facebook nhóm và Slack chat).
 * Tham gia chơi và thảo luận (live).
 * Tổng hợp kết quả các team trong KS.IS. 
 
 <a name="ccna-training"></a>
-### Quy trình tổ chức CCNA Training
+### 6. Quy trình tổ chức CCNA Training
 
 * Thảo luận phương án tổ chức, người đứng lớp (Instructors).
 * Phối hợp với meetup đầu năm học để tổ chức cho các bạn mới đăng ký học.
@@ -150,6 +149,15 @@
 * Tổ chức lớp (Gửi nội dung tự học qua Email + Offline Thứ 7 hàng tuần).
 
 ----
+
+<a name="tham-khao"></a>
+### Tham khảo
+
+- Trưởng nhóm (Group Leader): phụ trách toàn bộ Nhóm (KS.IS-Group).
+- Trưởng phân nhóm (SubTeam Leader): phụ trách quản lý 1 phân nhóm (SubTeam).
+- Cố vấn (Advisor): các anh chị khóa trên, cựu quản lý Nhóm.
+
+---
 
 ```C
 /* EOF - hoat_dong_nhom.md */
