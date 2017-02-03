@@ -26,6 +26,10 @@
 <a name="cac-hoat-dong-chinh"></a>
 ### Các hoạt động chính
 
+- Dưới đây là thống kê các hoạt động chính của Nhóm.
+- Chỉ tổ chức 1 Meetup trong 1 tháng (không tính Khóa đào tạo ngắn hạn, dài hạn).
+- Trưởng nhóm (Group Leader) chịu trách nhiệm chính cho tất cả hoạt động của Nhóm.
+
 |   |       Hoạt động     |                                   Mô tả                                |     Thời gian    | Thành phần |     Phụ trách       |
 |:-:|:--------------------------:|---------------------------------------------------------------------------|:----------------------:|:-------------------:|--------------------------|
 | 1 | Meetup đầu năm học | - Giao lưu tân sinh viên<br>- Trao đổi định hướng<br>- Tuyển,thành viên. | Tháng 10 hoặc 11 | Tất cả | - Trưởng nhóm<br>- Cố vấn |
@@ -35,7 +39,7 @@
 | 5 | SubTeam Training | - Đào tạo dài hạn, kế hoạch tối thiểu 6 tháng.<br>- Chia thành các nhóm nhỏ (SubTeam) với mục tiêu, định hướng đào tạo rõ ràng theo một vị trí công việc thực tế. | N/A | N/A | - Trưởng nhóm<br>- Trưởng phân nhóm |
 | 6 | KS-IS CTF | Cuộc thi CTF nội bộ: đủ các lĩnh vực, hình thức thi cá nhân. | 2 lần/năm | N/A | - Trưởng nhóm<br>- Trưởng phân nhóm<br>- Cố vấn |
 | 7 | CTF Online | Cuộc thi CTF Online: chơi chung CTF Online có kế hoạch tập trung. | N/A  | N/A | - Trưởng nhóm<br>- Trưởng phân nhóm |
-| 8 | [...] | [...] | [...] | [...] | [...] |
+|  - | [...] | [...] | [...] | [...] | [...] |
 
 <a name="to-chuc-nhan-su"></a>
 ### Tổ chức nhân sự
