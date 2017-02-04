@@ -37,12 +37,12 @@
 |   |       Hoạt động     |                                   Mô tả                                |     Thời gian    | Thành phần |     Phụ trách       |
 |:-:|:--------------------------:|---------------------------------------------------------------------------|:----------------------:|:-------------------:|--------------------------|
 | 1 | Meetup đầu năm học | - Giao lưu tân sinh viên<br>- Trao đổi định hướng<br>- Tuyển,thành viên. | Tháng 10 hoặc 11 | Tất cả | - Trưởng nhóm<br>- Cố vấn |
-| 2 | Meetup kỹ thuật, công nghệ | Chia sẻ, thảo luận về kỹ thuật, công nghệ mới. | T7/CN tuần đầu trong tháng | Tất cả | Trưởng nhóm |
-| 3 | Meetup định hướng | Chia sẻ định hướng, kinh nghiệm học tập, làm việc. | N/A | Tất cả | - Trưởng nhóm<br>- Cố vấn |
-| 4 | Course Training | - Đào tạo ngắn hạn, dưới dạng khóa học 2-4 tháng.<br>- VD: C/C++, Python, CCNA, LPI. | Giai đoạn đầu của SubTeam Training | N/A | Trưởng phân nhóm |
+| 2 | Meetup kỹ thuật, công nghệ | - Chia sẻ, thảo luận về kỹ thuật, công nghệ mới. | T7/CN tuần đầu trong tháng | Tất cả | - Trưởng nhóm |
+| 3 | Meetup định hướng | - Chia sẻ định hướng, kinh nghiệm học tập, làm việc. | N/A | Tất cả | - Trưởng nhóm<br>- Cố vấn |
+| 4 | Course Training | - Đào tạo ngắn hạn, dưới dạng khóa học 2-4 tháng.<br>- VD: C/C++, Python, CCNA, LPI. | Giai đoạn đầu của SubTeam Training | N/A | - Trưởng phân nhóm |
 | 5 | SubTeam Training | - Đào tạo dài hạn, kế hoạch tối thiểu 6 tháng.<br>- Chia thành các phân nhóm (SubTeam) với mục tiêu, định hướng đào tạo rõ ràng theo một vị trí công việc thực tế. | N/A | N/A | - Trưởng nhóm<br>- Trưởng phân nhóm |
-| 6 | KS-IS CTF | Cuộc thi CTF nội bộ: đủ các lĩnh vực, hình thức thi cá nhân. | 2 lần/năm | N/A | - Trưởng nhóm<br>- Trưởng phân nhóm<br>- Cố vấn |
-| 7 | CTF Online | Cuộc thi CTF Online: chơi chung CTF Online có kế hoạch tập trung. | N/A  | N/A | - Trưởng nhóm<br>- Trưởng phân nhóm |
+| 6 | KS-IS CTF | - Cuộc thi CTF nội bộ: đủ các lĩnh vực, hình thức thi cá nhân. | 2 lần/năm | N/A | - Trưởng nhóm<br>- Trưởng phân nhóm<br>- Cố vấn |
+| 7 | CTF Online | - Cuộc thi CTF Online: chơi chung CTF Online có kế hoạch tập trung. | N/A  | N/A | - Trưởng nhóm<br>- Trưởng phân nhóm |
 |  - | [...] | [...] | [...] | [...] | [...] |
 
 <a name="to-chuc-nhan-su"></a>
@@ -153,9 +153,9 @@
 <a name="tham-khao"></a>
 ### Tham khảo
 
-- Trưởng nhóm (Group Leader): phụ trách toàn bộ Nhóm (KS.IS-Group).
-- Trưởng phân nhóm (SubTeam Leader): phụ trách quản lý 1 phân nhóm (SubTeam).
-- Cố vấn (Advisor): các anh chị khóa trên, cựu quản lý Nhóm.
+- **Trưởng nhóm (Group Leader)**: phụ trách toàn bộ Nhóm (KS.IS-Group).
+- **Trưởng phân nhóm (SubTeam Leader)**: phụ trách quản lý 1 phân nhóm (SubTeam).
+- **Cố vấn (Advisor)**: các anh chị khóa trên, cựu quản lý Nhóm.
 
 ---
 
