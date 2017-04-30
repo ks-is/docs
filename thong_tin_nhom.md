@@ -45,6 +45,8 @@ Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là SFT).
 
 #### Danh sách thành viên
 
+* Nếu bạn muốn tham gia đóng góp và phát triển KS.IS: [Click-Here](./thanh_vien_moi.md)
+
 |    Time   | Total |         Active members       |       Executive         |
 |:---------:|:-----:|------------------------------|-------------------------|
 | 2013-2014 |   ~8  | - H4rdw0rk (Van Toan Ha)<br>- SilverShooter (Le An)<br>- hacker288 (Do Huan)<br>- TamVu (Tam Quang Vu) | - **H4rdw0rk (Van-Toan Ha) (C)** |
