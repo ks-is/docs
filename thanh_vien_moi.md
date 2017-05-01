@@ -13,7 +13,7 @@
 
 #### 3. Slack
 
-- Khi trao đổi với người phụ trách nhóm, sẽ được cung cấp URL để tham gia chat room. Chat room nhóm tại: [http://ksis-group.slack.com](http://ksis-group.slack.com).
+- Khi trao đổi với người phụ trách nhóm, sẽ được cung cấp URL để tham gia chat room. Chat room nhóm tại: [https://ksis-group.slack.com](http://ksis-group.slack.com).
 - Slack cho phép chat theo channel, chat private với từng cá nhân khác.
 
 #### 4. Trello
