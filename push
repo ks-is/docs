@@ -1,0 +1,6 @@
+#!/bin/sh
+
+git status
+git add -A
+git commit -m "Add some changes"
+git push origin master
