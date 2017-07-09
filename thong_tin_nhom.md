@@ -7,7 +7,7 @@
 **KMA South Information Security** (viết tắt là **KS.IS**) là group về CNTT, An toàn thông tin của Sinh viên Học viện kỹ thuật Mật mã - Cơ sở phía Nam.
 
 - Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là SFT).
-- **Nhóm đã chính thức đóng cửa từ ngày 01/07/2017!**.
+- **Nhóm đã chính thức đóng cửa từ ngày 01/07/2017**.
 
 #### Co-Founder
 
@@ -41,7 +41,7 @@
 | 05/11/2016  | **Student with Information Security 2016 - North Prequals** <br>(KMA Warriors: Le An, Do Huan. The Wolves: MrVermouth) | **1st, 2nd** |
 | 02/12/2016  | **Student with Information Security 2016 - Final** <br>(KMA Warriors: Le An, Do Huan. The Wolves: MrVermouth) | **2nd, 4th** |
 | 22/12/2016  | CCNA K3 Training     | **Finish** |
-| 01/07/2017  | KS.IS-Group is closed |  |
+| 01/07/2017  | **KS.IS-Group is closed** |  |
 
 #### Danh sách thành viên
 
