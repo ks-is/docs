@@ -6,7 +6,8 @@
 
 **KMA South Information Security** (viết tắt là **KS.IS**) là group về CNTT, An toàn thông tin của Sinh viên Học viện kỹ thuật Mật mã - Cơ sở phía Nam.
 
-Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là SFT).
+- Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là SFT).
+- **Nhóm đã chính thức đóng cửa từ ngày 01/07/2017!**.
 
 #### Co-Founder
 
@@ -40,8 +41,7 @@ Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là SFT).
 | 05/11/2016  | **Student with Information Security 2016 - North Prequals** <br>(KMA Warriors: Le An, Do Huan. The Wolves: MrVermouth) | **1st, 2nd** |
 | 02/12/2016  | **Student with Information Security 2016 - Final** <br>(KMA Warriors: Le An, Do Huan. The Wolves: MrVermouth) | **2nd, 4th** |
 | 22/12/2016  | CCNA K3 Training     | **Finish** |
-| xx/01/2017  | CTF Training 2017    | Start |
-| [...]  | [...]   | [...]  |
+| 01/07/2017  | KS.IS-Group is closed |  |
 
 #### Danh sách thành viên
 
@@ -53,7 +53,6 @@ Ngày thành lập chính thức: **12/12/2013** (ban đầu có tên là SFT).
 |    2015   |  ~25  | - MrVermouth (Pham Trung Tinh)<br>- Hades (Duong Tuan Thong)<br>- lnhquang1993 (Le Nguyen Hong Quang)<br>- TraiOi (Le Truong An)<br>- K3v1n (Lam Phat Dat)<br>- dthucsida (Doan Duy Thuc)<br>- cunhuly (Pham Hoang Nhu)<br>- tynken0496 (Nguyen Van Thanh)<br>- Mai Tan Phuoc | - **H4rdw0rk (Van Toan Ha) (C)** |
 |    2016   |  ~35  | - MrVermouth (Pham Trung Tinh)<br>- lnhquang1993 (Le Nguyen Hong Quang)<br>- TraiOi (Le Truong An)<br>- K3v1n (Lam Phat Dat)<br>- nct1212 (Nguyen Cong Thanh) | - **H4rdw0rk (Van-Toan Ha) (C)**<br>- MrVermouth (Pham Trung Tinh)<br>- K3v1n (Lam Phat Dat)<br>- nct1212 (Nguyen Cong Thanh) |
 |    2017   |  ~35  |                             | - **MrVermouth (Pham Trung Tinh) (C)**<br>- TraiOi (Le Truong An)<br>- K3v1n (Lam Phat Dat)<br>- nct1212 (Nguyen Cong Thanh) |
-|   [...]   | [...] | [...] | [...] |
 
 #### Giấy phép hoạt động
 
