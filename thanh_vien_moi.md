@@ -29,12 +29,12 @@
 
 Thông tin liên hệ Team điều hành nhóm:
 
-- Software Engineering: [Công Thạnh](https://www.facebook.com/NCThanh1212)
-- Web Pentesting: [Lâm Phát Đạt](https://www.facebook.com/lpdat11)
-- Reverse Engineering: [Phạm Trung Tính](https://www.facebook.com/profile.php?id=100009047822201)
-- Network-System: [Hà Văn Toàn](https://www.facebook.com/hatoan.vniss)
+- Software Engineering: [Công Thạnh](#)
+- Web Pentesting: [Lâm Phát Đạt](#)
+- Reverse Engineering: [Phạm Trung Tính](#)
+- Network-System: [Hà Văn Toàn](#)
 
 ---
 
 <a name="chu-ky"></a>
-**Phụ trách KS.IS-Group: [Hà Văn Toàn](https://www.facebook.com/hatoan.vniss)**
+**Phụ trách KS.IS-Group: [Hà Văn Toàn](#)**
